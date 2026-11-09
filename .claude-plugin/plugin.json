@@ -1,0 +1,7 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "Rewrites your rough prompt into a clear, well-structured one with one click before you send it",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
